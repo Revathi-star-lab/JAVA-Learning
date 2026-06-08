@@ -6,7 +6,7 @@ public class HelloWorld{
         System.out.println("I'm B.tech student");
         System.out.println("I'm Studying in MITS");
         System.out.println("I want to get a good job");
-        System.out.println("I'm a curious person fighting to learn new skills with my slep ");
+        System.out.println("I'm a curious person fighting to learn new skills  ");
 
     }
 }
